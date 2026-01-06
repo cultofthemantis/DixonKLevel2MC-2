@@ -33,3 +33,4 @@ C:\Users\kelle\OneDrive\Documents\Academy\Level2\DixonKLevel2MC#2\mynewapi\obj\D
 C:\Users\kelle\OneDrive\Documents\Academy\Level2\DixonKLevel2MC#2\mynewapi\obj\Debug\net9.0\mynewapi.pdb
 C:\Users\kelle\OneDrive\Documents\Academy\Level2\DixonKLevel2MC#2\mynewapi\obj\Debug\net9.0\mynewapi.genruntimeconfig.cache
 C:\Users\kelle\OneDrive\Documents\Academy\Level2\DixonKLevel2MC#2\mynewapi\obj\Debug\net9.0\ref\mynewapi.dll
+C:\Users\kelle\OneDrive\Documents\Academy\Level2\DixonKLevel2MC#2\mynewapi\obj\Debug\net9.0\mynewapi.sourcelink.json
